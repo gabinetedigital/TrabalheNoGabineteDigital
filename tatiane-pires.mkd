@@ -1,0 +1,53 @@
+# Tatiane Pires
+
+## Portf&oacute;lio
+
+Criação e codificação de um layout publicado no repositório de templates do WordPress e dos layouts do meu blog [tatianeps.com.br](http://tatianeps.com.br); codificação do site da empresa Ionatec Serviços Interativos, [ionatec.com.br](http://ionatec.com.br); codificação de layouts para sites de e-commerce. Mais informações no meu portfólio: [tatianeps.com.br/portfolio](http://tatianeps.com.br/portfolio).
+
+
+## Palestras e workshops
+
+Já realizei palestras e workshops sobre WordPress, Internet, redes sociais e comunicação, mais informações no meu blog: [tatianeps.com.br/palestras-e-oficinas](http://tatianeps.com.br/palestras-e-oficinas).
+
+Oficina de Blogs e Redes Sociais
+* Amazon Web &mdash; 2 de setembro de 2013, Belém (PA)
+
+Oficina de WordPress
+* 3&ordm; Encontro Nacional de Blogueiros &mdash; 26 de maio de 2012, Salvador (BA)
+* Conexões Globais 2.0 &mdash; 26 de janeiro de 2012, Porto Alegre (RS)
+
+Acesso à internet e direito à comunicação
+* Seminário Comunicação em Pauta &mdash; 28 de novembro de 2011, Bagé (RS)
+
+O papel da tecnologia na democratização da comunicação
+* 2&ordm; Encontro Nacional de Blogueiros &mdash; 18 de junho de 2011, Brasília (DF)
+
+Administração e ferramentas para blogs WordPress
+* 1&ordm; Encontro de Blogueiros do RS &mdash; 28 de maio de 2011, Porto Alegre (RS)
+
+
+## Idiomas
+
+* Inglês: conversação, leitura e escrita fluentes.
+
+
+## Qualificações
+
+* Experiência em codificação HTML e CSS para layouts de sites e blogs
+* Experiência na utilização da biblioteca jQuery
+* Experiência na criação de sites e blogs utilizando WordPress
+* Experiência em desenvolvimento web com a linguagem PHP
+* Experiência na utilização de bancos de dados MySQL
+* Conhecimentos em sistemas operacionais e servidores Linux
+
+
+## Atividades
+
+Mais de quatro anos de experiência em atividades de desenvolvimento front-end e com o gerenciador de conteúdo WordPress.
+
+
+## Outras atividades
+
+Escrevi semanalmente sobre esporte e tecnologia no [Blog Centauro Mulher](http://www.centauro.com.br/mulher/), desde o lançamento, em março de 2010, até setembro de 2011.
+
+Sou atleta amadora, pratico ciclismo e corrida regularmente. Participo de provas de corrida de rua e já participei de duas provas Audax de ciclismo de 200km.
