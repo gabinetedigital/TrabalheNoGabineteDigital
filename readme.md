@@ -55,4 +55,4 @@ PS: Gostaríamos de lembrar que se você quer trabalhar na área de desenvolvime
 
 --
 
-O conteúdo desta página foi completamente inspirado na página da https://github.com/globocom/IWantToWorkAtGlobocom
+O conteúdo desta página foi completamente inspirado na página da Globo.com no GitHub: https://github.com/globocom/IWantToWorkAtGlobocom
