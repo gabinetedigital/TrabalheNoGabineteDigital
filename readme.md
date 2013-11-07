@@ -42,7 +42,7 @@ Se você ficou interessado em trabalhar conosco, siga esses passos:
 
 Só para lembrar: Estes dados que você está colocando ficarão visíveis para todo mundo, logo se você não quiser colocar dados como telefone, e-mail, etc, basta enviar por mensagem direta ou por email para gabinetedigital@sgg.rs.gov.br
 
-PS: Gostaríamos de lembrar que se você quer trabalhar na área de desenvolvimento simplesmente porque dá dinheiro e realmente não está nessa por amor a profissão, por favor procure outro lugar. É essencial que os candidatos que mandarem currículo sejam apaixonados por desenvolvimento. <3
+PS: É essencial que os candidatos que mandarem currículo sejam apaixonados por desenvolvimento e não estejam na profissão só pelo dinheiro <3
 
 --
 
