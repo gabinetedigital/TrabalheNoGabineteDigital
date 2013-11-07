@@ -2,7 +2,7 @@
 
 ## Portf&oacute;lio
 
-Criação e codificação de um layout publicado no repositório de templates do WordPress e dos layouts do meu blog [tatianeps.com.br](http://tatianeps.com.br); codificação do site da empresa Ionatec Serviços Interativos, [ionatec.com.br](http://ionatec.com.br); codificação de layouts para sites de e-commerce. Mais informações no meu portfólio: [tatianeps.com.br/portfolio](http://tatianeps.com.br/portfolio).
+Criação e codificação de um [layout publicado](http://wordpress.org/themes/just-pink) no repositório de templates do WordPress e dos layouts do meu blog [tatianeps.com.br](http://tatianeps.com.br); codificação do site da empresa Ionatec Serviços Interativos, [ionatec.com.br](http://ionatec.com.br); codificação de layouts para sites de e-commerce. Mais informações no meu portfólio: [tatianeps.com.br/portfolio](http://tatianeps.com.br/portfolio).
 
 
 ## Palestras e workshops
@@ -51,3 +51,9 @@ Mais de quatro anos de experiência em atividades de desenvolvimento front-end e
 Escrevi semanalmente sobre esporte e tecnologia no [Blog Centauro Mulher](http://www.centauro.com.br/mulher/), desde o lançamento, em março de 2010, até setembro de 2011.
 
 Sou atleta amadora, pratico ciclismo e corrida regularmente. Participo de provas de corrida de rua e já participei de duas provas Audax de ciclismo de 200km.
+
+## Redes sociais
+
+* Twitter [@tatianepires](http://twitter.com/tatianepires)
+* Facebook [/tatianepiresblog](https://www.facebook.com/tatianepiresblog)
+* SlideShare [/tatianeps](http://www.slideshare.net/tatianeps/presentations)
