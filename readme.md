@@ -1,3 +1,5 @@
+![] (http://gabinetedigital.rs.gov.br/wp/wp-content/uploads/2013/11/vaga.png)
+
 # O que é o Gabinete Digital?
 
 O Gabinete Digital é um canal de participação e diálogo entre governo e sociedade. Vinculado à Secretaria-Geral de Governo, tem o objetivo de incorporar novas ferramentas de participação, oferecendo diferentes oportunidades ao cidadão de influenciar a gestão pública e exercer maior controle social sobre o Estado.
@@ -40,7 +42,7 @@ Local de Trabalho: Porto Alegre, RS.
 
 # Como me candidatar?
 
-Se você se convenceu que quer trabalhar na globo.com:
+Se você ficou interessado em trabalhar conosco, siga esses passos:
 
   - Forka esse projeto;
   - No seu fork, preencha o arquivo cv.mkd com seu currículo;
@@ -50,3 +52,7 @@ Se você se convenceu que quer trabalhar na globo.com:
 Só para lembrar: Estes dados que você está colocando ficarão visíveis para todo mundo, logo se você não quiser colocar dados como telefone, e-mail, etc, basta enviar por mensagem direta ou por email para gabinetedigital@sgg.rs.gov.br
 
 PS: Gostaríamos de lembrar que se você quer trabalhar na área de desenvolvimento simplesmente porque dá dinheiro e realmente não está nessa por amor a profissão, por favor procure outro lugar. É essencial que os candidatos que mandarem currículo sejam apaixonados por desenvolvimento. <3
+
+--
+
+O conteúdo desta página foi completamente inspirado na página da https://github.com/globocom/IWantToWorkAtGlobocom
