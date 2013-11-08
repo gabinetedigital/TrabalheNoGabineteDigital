@@ -1,4 +1,4 @@
-![] (http://gabinetedigital.rs.gov.br/wp/wp-content/uploads/2013/11/vaga.png)
+![] (http://gabinetedigital.rs.gov.br/wp/wp-content/uploads/2013/11/vaga1.png)
 
 # O que é o Gabinete Digital?
 
